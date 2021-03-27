@@ -29,7 +29,7 @@
     "url": "git+https://github.com/hkjang/node-red-contrib-jeus.git"
   },
   "dependencies": {
-    "jeus": "^1.0.1"
+    "jeus": "^1.0.0"
   },
   "license": "Apache-2.0"
 }
