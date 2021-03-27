@@ -12,11 +12,23 @@
     }
   },
   "keywords": [
-    "node-red-contrib-contribgen", 
-    "node-red", 
+    "node-red-contrib-contribgen",
+    "node-red",
+    "nodejs",
+    "jeusadmin",
+    "jeus api",
+    "jeus rest api",
     "jeus"
   ],
-  "devDependencies": {
+  "bugs": {
+    "url": "https://github.com/hkjang/node-red-contrib-jeus/issues"
+  },
+  "homepage": "https://github.com/hkjang/node-red-contrib-jeus#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkjang/node-red-contrib-jeus.git"
+  },
+  "dependencies": {
     "jeus": "^1.0.1"
   },
   "license": "Apache-2.0"
